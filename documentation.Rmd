@@ -1,0 +1,15 @@
+---
+title: "CTG UKBIO pipeline documentation"
+author: "Sven Stringer"
+date: "August 19, 2016"
+output: 
+   pdf_document:
+   toc: true
+   toc_depth: 2
+---
+
+# Introduction
+
+This document explains the structure of the user end of the ukbiobank pipeline. That is, any analysis that can be done by non-administrator users. However all users need reading permissions on the lisa ctgukbio account.
+
+# GWAS with SNPtest
